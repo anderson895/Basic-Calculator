@@ -1,0 +1,31 @@
+C:\Users\user\source\repos\J Calculator\J Calculator\bin\Debug\J Calculator.exe.config
+C:\Users\user\source\repos\J Calculator\J Calculator\bin\Debug\J Calculator.exe
+C:\Users\user\source\repos\J Calculator\J Calculator\bin\Debug\J Calculator.pdb
+C:\Users\user\source\repos\J Calculator\J Calculator\obj\Debug\J Calculator.csprojAssemblyReference.cache
+C:\Users\user\source\repos\J Calculator\J Calculator\obj\Debug\J_Calculator.Properties.Resources.resources
+C:\Users\user\source\repos\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\J Calculator\J Calculator\obj\Debug\J Calculator.exe
+C:\Users\user\source\repos\J Calculator\J Calculator\obj\Debug\J Calculator.pdb
+C:\Users\user\source\repos\J Calculator\J Calculator\obj\Debug\JoshuaCalculator.Form1.resources
+C:\Users\user\Documents\J Calculator\J Calculator\bin\Debug\J Calculator.exe.config
+C:\Users\user\Documents\J Calculator\J Calculator\bin\Debug\J Calculator.exe
+C:\Users\user\Documents\J Calculator\J Calculator\bin\Debug\J Calculator.pdb
+C:\Users\user\Documents\J Calculator\J Calculator\obj\Debug\J Calculator.csprojAssemblyReference.cache
+C:\Users\user\Documents\J Calculator\J Calculator\obj\Debug\JoshuaCalculator.Form1.resources
+C:\Users\user\Documents\J Calculator\J Calculator\obj\Debug\J_Calculator.Properties.Resources.resources
+C:\Users\user\Documents\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.GenerateResource.cache
+C:\Users\user\Documents\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\J Calculator\J Calculator\obj\Debug\J Calculator.exe
+C:\Users\user\Documents\J Calculator\J Calculator\obj\Debug\J Calculator.pdb
+E:\Document backup\J Calculator\J Calculator\bin\Debug\J Calculator.exe.config
+E:\Document backup\J Calculator\J Calculator\bin\Debug\J Calculator.exe
+E:\Document backup\J Calculator\J Calculator\bin\Debug\J Calculator.pdb
+E:\Document backup\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.AssemblyReference.cache
+E:\Document backup\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Document backup\J Calculator\J Calculator\obj\Debug\JoshuaCalculator.Form1.resources
+E:\Document backup\J Calculator\J Calculator\obj\Debug\J_Calculator.Properties.Resources.resources
+E:\Document backup\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.GenerateResource.cache
+E:\Document backup\J Calculator\J Calculator\obj\Debug\J Calculator.csproj.CoreCompileInputs.cache
+E:\Document backup\J Calculator\J Calculator\obj\Debug\J Calculator.exe
+E:\Document backup\J Calculator\J Calculator\obj\Debug\J Calculator.pdb
